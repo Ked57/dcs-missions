@@ -1,0 +1,1 @@
+This is an example dynamic mission for NIOD using MOOSE

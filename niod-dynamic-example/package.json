@@ -1,0 +1,14 @@
+{
+  "name": "niod-dynamic-example",
+  "version": "1.0.0",
+  "description": "This is an example dynamic mission for NIOD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "niod": "^2.0.1"
+  }
+}
